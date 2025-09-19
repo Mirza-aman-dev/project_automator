@@ -5,7 +5,6 @@
 
 ## Run
 
-To generate a controller file from a model, run:
 
 ```bash
 curl -X POST http://localhost:4000/generate-controller \
